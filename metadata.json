@@ -1,0 +1,6 @@
+{
+  "name": "Air Ticketing & Travel Planner",
+  "description": "Full-service air ticketing, accommodation, and car rental system with dynamic price alerts, Gemini-powered place recommendations, interactive maps, and complete Gmail travel itinerary synchronization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
